@@ -1,0 +1,44 @@
+{
+  "uuid": "f27f56b7-1fd9-4c21-89f4-1acc9e81563b-tc-0-1000",
+  "name": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyCustomPage",
+  "children": [
+    "ed909195-7d11-4f53-8d31-6b49e2007153-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298941319,
+      "stop": 1601298941319
+    }
+  ],
+  "afters": [
+    {
+      "name": "fnScreenshot",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298941319,
+      "stop": 1601298941319
+    }
+  ],
+  "links": [],
+  "start": 1601298937563,
+  "stop": 1601298941320
+}

@@ -1,0 +1,77 @@
+{
+  "uuid": "058328bd-b107-4973-b03d-8202bb086cfb-tr-0-1002",
+  "historyId": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyLengthOfMsg",
+  "fullName": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyLengthOfMsg",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "16"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyLengthOfMsg"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyLengthOfMsg",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether length of the entered message is same when comparing the original and mirror panel\n",
+  "steps": [
+    {
+      "name": "fnVerifyLengthOfMsg",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "20200928_184550.png",
+          "source": "b6994b63fe4c4d51be24d9e1830b27a8-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "98325ce7541342f290b198b4a1ea6af3-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601298941321,
+      "stop": 1601298952171
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601298941321,
+  "stop": 1601298952171
+}

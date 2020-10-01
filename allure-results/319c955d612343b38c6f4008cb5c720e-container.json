@@ -1,0 +1,44 @@
+{
+  "uuid": "71656bdc-e6fa-41c6-a082-e58afdc7598f-tc-0-1000",
+  "name": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyLengthOfMsg",
+  "children": [
+    "058328bd-b107-4973-b03d-8202bb086cfb-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298952171,
+      "stop": 1601298952171
+    }
+  ],
+  "afters": [
+    {
+      "name": "fnScreenshot",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298952171,
+      "stop": 1601298952171
+    }
+  ],
+  "links": [],
+  "start": 1601298941321,
+  "stop": 1601298952172
+}

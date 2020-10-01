@@ -1,0 +1,77 @@
+{
+  "uuid": "ed909195-7d11-4f53-8d31-6b49e2007153-tr-0-1001",
+  "historyId": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyCustomPage",
+  "fullName": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyCustomPage",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "16"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyCustomPage"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyCustomPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether Custom Message is page is redirected\n",
+  "steps": [
+    {
+      "name": "fnVerifyCustomPage",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "20200928_184540.png",
+          "source": "001d6118d04247dd90dd6b8ae78e7185-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "53ee43d7ecf84be78c6e87dfdcd4ef7a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601298937563,
+      "stop": 1601298941320
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601298937563,
+  "stop": 1601298941320
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "363c6995-e749-443e-8d66-8d61e3a58082-tc-0-1009",
+  "name": "UnitTestProject1.TestClasses.LoginClass.fnLoginIntoApplication",
+  "children": [
+    "4ffcc69b-38db-4f2e-8390-e934da36ec09-tr-0-1010"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298937478,
+      "stop": 1601298937478
+    }
+  ],
+  "afters": [
+    {
+      "name": "fnScreenshot",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298937480,
+      "stop": 1601298937480
+    }
+  ],
+  "links": [],
+  "start": 1601298925764,
+  "stop": 1601298937546
+}

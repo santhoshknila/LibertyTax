@@ -1,0 +1,77 @@
+30-09-2020 09:54:03 AM: Browser has been initialized
+30-09-2020 09:54:03 AM:  Setup has been done successfully.
+30-09-2020 09:54:09 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+30-09-2020 09:54:09 AM: User Password  from ExcelLOGU@#$123
+30-09-2020 09:54:25 AM: Login has been done successfully.
+30-09-2020 09:54:25 AM:  Dashboard has been redirected successfully
+30-09-2020 09:54:26 AM:  Custome Msg Entered.
+30-09-2020 09:54:26 AM: Custome Message Length 47
+30-09-2020 09:54:27 AM:  Custome Msg Length Validated.
+30-09-2020 09:54:30 AM:  Custome Msg Submited.
+30-09-2020 09:54:33 AM:  Office URL Custome Msg Added in Dashboard.
+30-09-2020 09:54:34 AM:  Custome Msg Entered.
+30-09-2020 09:54:34 AM: Custome Message Length 47
+30-09-2020 09:54:34 AM:  Custome Msg Length Validated.
+30-09-2020 09:54:41 AM:  Click Appointment URL Radio Button.
+30-09-2020 09:54:44 AM:  Custome Msg Submited.
+30-09-2020 09:54:44 AM:  Custome Msg Submited.
+30-09-2020 09:54:47 AM:   Expected: True
+  But was:  False
+
+30-09-2020 09:54:48 AM:  Custome Msg Entered.
+30-09-2020 09:54:48 AM: Custome Message Length 47
+30-09-2020 09:54:49 AM:  Custome Msg Length Validated.
+30-09-2020 09:54:54 AM:  Click No URL Radio Button.
+30-09-2020 09:54:56 AM:  Custome Msg Submited.
+30-09-2020 09:54:56 AM:  Custome Msg Submited.
+30-09-2020 09:54:59 AM:  No URL Custome Msg Added in Dashboard.
+30-09-2020 09:55:59 AM: Browser has been initialized
+30-09-2020 09:55:59 AM:  Setup has been done successfully.
+30-09-2020 09:56:00 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+30-09-2020 09:56:01 AM: User Password  from ExcelLOGU@#$123
+30-09-2020 09:56:14 AM: Login has been done successfully.
+30-09-2020 09:56:14 AM:  Dashboard has been redirected successfully
+30-09-2020 09:56:15 AM:  Custome Msg Entered.
+30-09-2020 09:56:15 AM: Custome Message Length 47
+30-09-2020 09:56:15 AM:  Custome Msg Length Validated.
+30-09-2020 09:56:18 AM:  Custome Msg Submited.
+30-09-2020 09:56:22 AM:  Office URL Custome Msg Added in Dashboard.
+30-09-2020 09:56:23 AM:  Custome Msg Entered.
+30-09-2020 09:56:23 AM: Custome Message Length 47
+30-09-2020 09:56:23 AM:  Custome Msg Length Validated.
+30-09-2020 09:56:38 AM:  Click Appointment URL Radio Button.
+30-09-2020 09:56:41 AM:  Custome Msg Submited.
+30-09-2020 09:56:41 AM:  Custome Msg Submited.
+30-09-2020 09:56:49 AM:  Appointment URL Custome Msg Added in Dashboard.
+30-09-2020 09:56:52 AM:  Custome Msg Entered.
+30-09-2020 09:56:52 AM: Custome Message Length 47
+30-09-2020 09:56:52 AM:  Custome Msg Length Validated.
+30-09-2020 09:56:57 AM:  Click No URL Radio Button.
+30-09-2020 09:56:57 AM:   Expected: True
+  But was:  False
+
+30-09-2020 09:57:29 AM: Browser has been initialized
+30-09-2020 09:57:29 AM:  Setup has been done successfully.
+30-09-2020 09:57:30 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+30-09-2020 09:57:30 AM: User Password  from ExcelLOGU@#$123
+30-09-2020 09:57:39 AM: Login has been done successfully.
+30-09-2020 09:57:39 AM:  Dashboard has been redirected successfully
+30-09-2020 09:57:41 AM:  Custome Msg Entered.
+30-09-2020 09:57:41 AM: Custome Message Length 47
+30-09-2020 09:57:41 AM:  Custome Msg Length Validated.
+30-09-2020 09:57:51 AM:  Custome Msg Submited.
+30-09-2020 09:57:55 AM:  Office URL Custome Msg Added in Dashboard.
+30-09-2020 09:57:56 AM:  Custome Msg Entered.
+30-09-2020 09:57:56 AM: Custome Message Length 47
+30-09-2020 09:57:56 AM:  Custome Msg Length Validated.
+30-09-2020 09:58:09 AM:  Click Appointment URL Radio Button.
+30-09-2020 09:58:16 AM:  Custome Msg Submited.
+30-09-2020 09:58:23 AM:  Custome Msg Submited.
+30-09-2020 09:58:32 AM:  Appointment URL Custome Msg Added in Dashboard.
+30-09-2020 09:58:34 AM:  Custome Msg Entered.
+30-09-2020 09:58:34 AM: Custome Message Length 47
+30-09-2020 09:58:34 AM:  Custome Msg Length Validated.
+30-09-2020 09:58:39 AM:  Click No URL Radio Button.
+30-09-2020 09:58:47 AM:  Custome Msg Submited.
+30-09-2020 09:58:48 AM:  Custome Msg Submited.
+30-09-2020 09:58:52 AM:  No URL Custome Msg Added in Dashboard.

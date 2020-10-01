@@ -1,0 +1,77 @@
+{
+  "uuid": "22ced7d4-8563-4a1d-bf97-8dff21ca1369-tr-0-1004",
+  "historyId": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyNewlyAddedMsg",
+  "fullName": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyNewlyAddedMsg",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "16"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyNewlyAddedMsg"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyNewlyAddedMsg",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether newly added message is displayed in Pending list\n",
+  "steps": [
+    {
+      "name": "fnVerifyNewlyAddedMsg",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "20200928_184612.png",
+          "source": "d2c6ca1c95eb4e83b31964042d7df2cb-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "f071ed58703d42c6a1b04b703f753b17-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601298962569,
+      "stop": 1601298974116
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601298962569,
+  "stop": 1601298974116
+}

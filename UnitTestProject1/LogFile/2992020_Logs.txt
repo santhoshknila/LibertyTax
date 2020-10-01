@@ -1,0 +1,284 @@
+29-09-2020 10:18:43 AM: Browser has been initialized
+29-09-2020 10:18:44 AM:  Setup has been done successfully.
+29-09-2020 10:18:56 AM: Exception from HRESULT: 0x800A03EC
+29-09-2020 10:19:00 AM: The SearchContext of the locator object cannot be null
+Parameter name: locator
+29-09-2020 10:19:57 AM: Browser has been initialized
+29-09-2020 10:19:57 AM:  Setup has been done successfully.
+29-09-2020 10:21:33 AM: Browser has been initialized
+29-09-2020 10:21:33 AM:  Setup has been done successfully.
+29-09-2020 10:21:34 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 10:21:35 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 10:21:48 AM: Login has been done successfully.
+29-09-2020 10:21:48 AM:  Dashboard has been redirected successfully
+29-09-2020 10:21:49 AM:  Custome Msg Entered.
+29-09-2020 10:21:49 AM: Custome Message Length 47
+29-09-2020 10:21:50 AM:  Custome Msg Length Validated.
+29-09-2020 10:21:53 AM:  Custome Msg Submited.
+29-09-2020 10:21:56 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 10:21:57 AM:  Custome Msg Entered.
+29-09-2020 10:21:57 AM: Custome Message Length 47
+29-09-2020 10:21:57 AM:  Custome Msg Length Validated.
+29-09-2020 10:22:04 AM:  Click Appointment URL Radio Button.
+29-09-2020 10:22:04 AM:   Expected: True
+  But was:  False
+
+29-09-2020 10:22:04 AM: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2) 
+
+29-09-2020 10:22:07 AM: Could not find element by: By.XPath: (//mat-card[@class='m-3 mat-card'])[4]//following-sibling::mat-grid-tile//div[@class='d-flex w-100 align-content-start content-text-tile' and contains(text(), 'Liberty')]
+29-09-2020 10:22:09 AM:  Custome Msg Entered.
+29-09-2020 10:22:09 AM: Custome Message Length 47
+29-09-2020 10:22:09 AM:  Custome Msg Length Validated.
+29-09-2020 10:22:13 AM:  Click No URL Radio Button.
+29-09-2020 10:22:15 AM:  Custome Msg Submited.
+29-09-2020 10:22:15 AM:  Custome Msg Submited.
+29-09-2020 10:22:18 AM:  No URL Custome Msg Added in Dashboard.
+29-09-2020 10:24:09 AM: Browser has been initialized
+29-09-2020 10:24:10 AM:  Setup has been done successfully.
+29-09-2020 10:24:11 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 10:24:12 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 10:24:22 AM: Login has been done successfully.
+29-09-2020 10:24:22 AM:  Dashboard has been redirected successfully
+29-09-2020 10:24:24 AM:  Custome Msg Entered.
+29-09-2020 10:24:24 AM: Custome Message Length 47
+29-09-2020 10:24:31 AM:  Custome Msg Length Validated.
+29-09-2020 10:24:39 AM:  Custome Msg Submited.
+29-09-2020 10:24:46 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 10:24:51 AM:  Custome Msg Entered.
+29-09-2020 10:24:51 AM: Custome Message Length 47
+29-09-2020 10:24:54 AM:  Custome Msg Length Validated.
+29-09-2020 10:25:07 AM:  Click Appointment URL Radio Button.
+29-09-2020 10:25:17 AM:  Custome Msg Submited.
+29-09-2020 10:25:36 AM:  Custome Msg Submited.
+29-09-2020 10:27:27 AM: Browser has been initialized
+29-09-2020 10:27:27 AM:  Setup has been done successfully.
+29-09-2020 10:27:28 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 10:27:29 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 10:27:39 AM: Login has been done successfully.
+29-09-2020 10:27:39 AM:  Dashboard has been redirected successfully
+29-09-2020 10:27:40 AM:  Custome Msg Entered.
+29-09-2020 10:27:40 AM: Custome Message Length 47
+29-09-2020 10:27:41 AM:  Custome Msg Length Validated.
+29-09-2020 10:27:44 AM:  Custome Msg Submited.
+29-09-2020 10:28:06 AM: Browser has been initialized
+29-09-2020 10:28:06 AM:  Setup has been done successfully.
+29-09-2020 10:28:07 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 10:28:09 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 10:28:22 AM: Login has been done successfully.
+29-09-2020 10:28:23 AM:  Dashboard has been redirected successfully
+29-09-2020 10:28:24 AM:  Custome Msg Entered.
+29-09-2020 10:28:24 AM: Custome Message Length 47
+29-09-2020 10:28:25 AM:  Custome Msg Length Validated.
+29-09-2020 10:28:28 AM:  Custome Msg Submited.
+29-09-2020 10:28:31 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 10:28:33 AM:  Custome Msg Entered.
+29-09-2020 10:28:33 AM: Custome Message Length 47
+29-09-2020 10:28:33 AM:  Custome Msg Length Validated.
+29-09-2020 10:28:57 AM:  Click Appointment URL Radio Button.
+29-09-2020 10:29:00 AM:  Custome Msg Submited.
+29-09-2020 10:29:00 AM:  Custome Msg Submited.
+29-09-2020 10:29:03 AM:  Appointment URL Custome Msg Added in Dashboard.
+29-09-2020 10:29:04 AM:  Custome Msg Entered.
+29-09-2020 10:29:04 AM: Custome Message Length 47
+29-09-2020 10:29:04 AM:  Custome Msg Length Validated.
+29-09-2020 10:29:08 AM:  Click No URL Radio Button.
+29-09-2020 10:29:11 AM:  Custome Msg Submited.
+29-09-2020 10:29:11 AM:  Custome Msg Submited.
+29-09-2020 10:29:14 AM:  No URL Custome Msg Added in Dashboard.
+29-09-2020 10:49:06 AM: Browser has been initialized
+29-09-2020 10:49:06 AM:  Setup has been done successfully.
+29-09-2020 10:51:05 AM: Browser has been initialized
+29-09-2020 10:52:52 AM:  Setup has been done successfully.
+29-09-2020 10:53:01 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 10:53:01 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 10:53:14 AM: Login has been done successfully.
+29-09-2020 10:53:14 AM:  Dashboard has been redirected successfully
+29-09-2020 10:54:22 AM:  Custome Msg Entered.
+29-09-2020 10:54:22 AM: Custome Message Length 47
+29-09-2020 10:54:22 AM:  Custome Msg Length Validated.
+29-09-2020 10:54:25 AM:  Custome Msg Submited.
+29-09-2020 10:54:29 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 10:54:30 AM:  Custome Msg Entered.
+29-09-2020 10:54:30 AM: Custome Message Length 47
+29-09-2020 10:54:30 AM:  Custome Msg Length Validated.
+29-09-2020 10:54:38 AM:   Expected: True
+  But was:  False
+
+29-09-2020 11:00:58 AM: Browser has been initialized
+29-09-2020 11:00:58 AM:  Setup has been done successfully.
+29-09-2020 11:00:59 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 11:01:00 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 11:01:10 AM: Login has been done successfully.
+29-09-2020 11:01:10 AM:  Dashboard has been redirected successfully
+29-09-2020 11:01:12 AM:  Custome Msg Entered.
+29-09-2020 11:01:12 AM: Custome Message Length 47
+29-09-2020 11:01:12 AM:  Custome Msg Length Validated.
+29-09-2020 11:01:15 AM:  Custome Msg Submited.
+29-09-2020 11:01:19 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 11:01:20 AM:  Custome Msg Entered.
+29-09-2020 11:01:20 AM: Custome Message Length 47
+29-09-2020 11:01:20 AM:  Custome Msg Length Validated.
+29-09-2020 11:01:28 AM:   Expected: True
+  But was:  False
+
+29-09-2020 11:02:43 AM: Browser has been initialized
+29-09-2020 11:02:43 AM:  Setup has been done successfully.
+29-09-2020 11:02:44 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 11:02:45 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 11:02:53 AM: Login has been done successfully.
+29-09-2020 11:02:53 AM:  Dashboard has been redirected successfully
+29-09-2020 11:02:55 AM:  Custome Msg Entered.
+29-09-2020 11:02:55 AM: Custome Message Length 47
+29-09-2020 11:02:55 AM:  Custome Msg Length Validated.
+29-09-2020 11:02:58 AM:  Custome Msg Submited.
+29-09-2020 11:03:02 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 11:03:03 AM:  Custome Msg Entered.
+29-09-2020 11:03:03 AM: Custome Message Length 47
+29-09-2020 11:03:03 AM:  Custome Msg Length Validated.
+29-09-2020 11:03:09 AM:  Click Appointment URL Radio Button.
+29-09-2020 11:03:12 AM:  Custome Msg Submited.
+29-09-2020 11:03:12 AM:  Custome Msg Submited.
+29-09-2020 11:03:15 AM:  Appointment URL Custome Msg Added in Dashboard.
+29-09-2020 11:03:17 AM:  Custome Msg Entered.
+29-09-2020 11:03:17 AM: Custome Message Length 47
+29-09-2020 11:03:17 AM:  Custome Msg Length Validated.
+29-09-2020 11:03:22 AM:  Click No URL Radio Button.
+29-09-2020 11:03:39 AM:  Custome Msg Submited.
+29-09-2020 11:03:39 AM:  Custome Msg Submited.
+29-09-2020 11:03:42 AM:  No URL Custome Msg Added in Dashboard.
+29-09-2020 11:44:07 AM: Browser has been initialized
+29-09-2020 11:44:07 AM:  Setup has been done successfully.
+29-09-2020 11:44:08 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 11:44:08 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 11:44:19 AM: Login has been done successfully.
+29-09-2020 11:44:19 AM:  Dashboard has been redirected successfully
+29-09-2020 11:44:20 AM:  Custome Msg Entered.
+29-09-2020 11:44:20 AM: Custome Message Length 47
+29-09-2020 11:44:20 AM:  Custome Msg Length Validated.
+29-09-2020 11:44:21 AM:   Expected: True
+  But was:  False
+
+29-09-2020 11:45:03 AM: Browser has been initialized
+29-09-2020 11:45:03 AM:  Setup has been done successfully.
+29-09-2020 11:45:04 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 11:45:04 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 11:45:16 AM: Login has been done successfully.
+29-09-2020 11:45:16 AM:  Dashboard has been redirected successfully
+29-09-2020 11:45:17 AM:  Custome Msg Entered.
+29-09-2020 11:45:17 AM: Custome Message Length 47
+29-09-2020 11:45:18 AM:  Custome Msg Length Validated.
+29-09-2020 11:45:32 AM:  Custome Msg Submited.
+29-09-2020 11:45:37 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 11:45:38 AM:  Custome Msg Entered.
+29-09-2020 11:45:38 AM: Custome Message Length 47
+29-09-2020 11:45:38 AM:  Custome Msg Length Validated.
+29-09-2020 11:45:44 AM:  Click Appointment URL Radio Button.
+29-09-2020 11:46:36 AM: Browser has been initialized
+29-09-2020 11:46:37 AM:  Setup has been done successfully.
+29-09-2020 11:46:37 AM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 11:46:38 AM: User Password  from ExcelLOGU@#$123
+29-09-2020 11:46:47 AM: Login has been done successfully.
+29-09-2020 11:46:47 AM:  Dashboard has been redirected successfully
+29-09-2020 11:46:48 AM:  Custome Msg Entered.
+29-09-2020 11:46:48 AM: Custome Message Length 47
+29-09-2020 11:46:49 AM:  Custome Msg Length Validated.
+29-09-2020 11:47:01 AM:  Custome Msg Submited.
+29-09-2020 11:47:06 AM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 11:47:07 AM:  Custome Msg Entered.
+29-09-2020 11:47:07 AM: Custome Message Length 47
+29-09-2020 11:47:07 AM:  Custome Msg Length Validated.
+29-09-2020 11:47:13 AM:  Click Appointment URL Radio Button.
+29-09-2020 11:47:22 AM:  Custome Msg Submited.
+29-09-2020 11:47:29 AM:  Custome Msg Submited.
+29-09-2020 11:47:33 AM:  Appointment URL Custome Msg Added in Dashboard.
+29-09-2020 11:47:34 AM:  Custome Msg Entered.
+29-09-2020 11:47:34 AM: Custome Message Length 47
+29-09-2020 11:47:34 AM:  Custome Msg Length Validated.
+29-09-2020 11:47:39 AM:  Click No URL Radio Button.
+29-09-2020 11:47:45 AM:  Custome Msg Submited.
+29-09-2020 11:47:46 AM:  Custome Msg Submited.
+29-09-2020 11:47:50 AM:  No URL Custome Msg Added in Dashboard.
+29-09-2020 02:05:22 PM: Browser has been initialized
+29-09-2020 02:05:22 PM:  Setup has been done successfully.
+29-09-2020 02:05:23 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 02:05:23 PM: User Password  from ExcelLOGU@#$123
+29-09-2020 02:05:40 PM: Login has been done successfully.
+29-09-2020 02:05:40 PM:  Dashboard has been redirected successfully
+29-09-2020 02:05:41 PM:  Custome Msg Entered.
+29-09-2020 02:05:41 PM: Custome Message Length 47
+29-09-2020 02:05:41 PM:  Custome Msg Length Validated.
+29-09-2020 02:05:44 PM:  Custome Msg Submited.
+29-09-2020 02:05:48 PM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 02:05:49 PM:  Custome Msg Entered.
+29-09-2020 02:05:49 PM: Custome Message Length 47
+29-09-2020 02:05:49 PM:  Custome Msg Length Validated.
+29-09-2020 02:05:55 PM:  Click Appointment URL Radio Button.
+29-09-2020 02:05:55 PM:   Expected: True
+  But was:  False
+
+29-09-2020 02:05:55 PM: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2) 
+
+29-09-2020 02:05:59 PM:   Expected: True
+  But was:  False
+
+29-09-2020 02:06:00 PM:  Custome Msg Entered.
+29-09-2020 02:06:00 PM: Custome Message Length 47
+29-09-2020 02:06:00 PM:  Custome Msg Length Validated.
+29-09-2020 02:06:05 PM:  Click No URL Radio Button.
+29-09-2020 02:06:07 PM:  Custome Msg Submited.
+29-09-2020 02:06:07 PM:  Custome Msg Submited.
+29-09-2020 02:06:11 PM:  No URL Custome Msg Added in Dashboard.
+29-09-2020 02:07:13 PM: Browser has been initialized
+29-09-2020 02:07:13 PM:  Setup has been done successfully.
+29-09-2020 02:07:14 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 02:07:14 PM: User Password  from ExcelLOGU@#$123
+29-09-2020 02:07:23 PM: Login has been done successfully.
+29-09-2020 02:07:23 PM:  Dashboard has been redirected successfully
+29-09-2020 02:07:25 PM:  Custome Msg Entered.
+29-09-2020 02:07:25 PM: Custome Message Length 47
+29-09-2020 02:07:25 PM:  Custome Msg Length Validated.
+29-09-2020 02:07:26 PM:   Expected: True
+  But was:  False
+
+29-09-2020 02:07:47 PM: Browser has been initialized
+29-09-2020 02:07:47 PM:  Setup has been done successfully.
+29-09-2020 02:07:48 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 02:07:48 PM: User Password  from ExcelLOGU@#$123
+29-09-2020 02:08:01 PM: Login has been done successfully.
+29-09-2020 02:08:01 PM:  Dashboard has been redirected successfully
+29-09-2020 02:08:02 PM:  Custome Msg Entered.
+29-09-2020 02:08:02 PM: Custome Message Length 47
+29-09-2020 02:08:03 PM:  Custome Msg Length Validated.
+29-09-2020 02:08:14 PM:  Custome Msg Submited.
+29-09-2020 02:08:17 PM:  Office URL Custome Msg Added in Dashboard.
+29-09-2020 02:08:21 PM:  Custome Msg Entered.
+29-09-2020 02:08:21 PM: Custome Message Length 47
+29-09-2020 02:08:21 PM:  Custome Msg Length Validated.
+29-09-2020 02:08:29 PM:  Click Appointment URL Radio Button.
+29-09-2020 02:08:37 PM:  Custome Msg Submited.
+29-09-2020 02:08:37 PM:  Custome Msg Submited.
+29-09-2020 02:08:40 PM:  Appointment URL Custome Msg Added in Dashboard.
+29-09-2020 02:08:41 PM:  Custome Msg Entered.
+29-09-2020 02:08:41 PM: Custome Message Length 47
+29-09-2020 02:08:41 PM:  Custome Msg Length Validated.
+29-09-2020 02:08:46 PM:  Click No URL Radio Button.
+29-09-2020 02:08:52 PM:  Custome Msg Submited.
+29-09-2020 02:08:52 PM:  Custome Msg Submited.
+29-09-2020 02:08:55 PM:  No URL Custome Msg Added in Dashboard.
+29-09-2020 02:58:00 PM: Browser has been initialized
+29-09-2020 02:59:31 PM:  Setup has been done successfully.
+29-09-2020 02:59:46 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+29-09-2020 02:59:46 PM: User Password  from ExcelLOGU@#$123
+29-09-2020 03:00:01 PM: Login has been done successfully.
+29-09-2020 03:00:01 PM:  Dashboard has been redirected successfully
+29-09-2020 03:02:34 PM:  Custome Msg Entered.
+29-09-2020 03:02:34 PM: Custome Message Length 47
+29-09-2020 03:02:34 PM:  Custome Msg Length Validated.

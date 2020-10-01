@@ -1,0 +1,44 @@
+{
+  "uuid": "af49684b-b54a-49d6-b252-bb85f5531be4-tc-0-1000",
+  "name": "UnitTestProject1.TestClasses.CustomMessage.fnVerifyNewlyAddedMsg",
+  "children": [
+    "22ced7d4-8563-4a1d-bf97-8dff21ca1369-tr-0-1004"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298974116,
+      "stop": 1601298974116
+    }
+  ],
+  "afters": [
+    {
+      "name": "fnScreenshot",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601298974116,
+      "stop": 1601298974116
+    }
+  ],
+  "links": [],
+  "start": 1601298962569,
+  "stop": 1601298974117
+}

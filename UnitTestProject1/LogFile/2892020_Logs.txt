@@ -1,0 +1,217 @@
+28-09-2020 02:56:35: Browser has been initialized
+28-09-2020 02:56:35:  Setup has been done successfully.
+28-09-2020 02:56:43: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 02:56:48: User Password  from ExcelLOGU@#$123
+28-09-2020 02:57:51: Login has been done successfully.
+28-09-2020 02:57:51:  Dashboard has been redirected successfully
+28-09-2020 02:58:02:  Custome Msg Entered.
+28-09-2020 02:58:02: Custome Message Length 45
+28-09-2020 02:58:03:  Custome Msg Length Validated.
+28-09-2020 02:58:05:   Expected: True
+  But was:  False
+
+28-09-2020 02:58:09: Could not find element by: By.XPath: (//mat-card[@class='m-3 mat-card'])[4]//following-sibling::mat-grid-tile//div[@class='d-flex w-100 align-content-start content-text-tile' and contains(text(), 'Liberty')]
+28-09-2020 02:58:19:  Custome Msg Entered.
+28-09-2020 02:58:19: Custome Message Length 45
+28-09-2020 02:58:19:  Custome Msg Length Validated.
+28-09-2020 02:58:25:  Click Appointment URL Radio Button.
+28-09-2020 02:58:32:  Custome Msg Submited.
+28-09-2020 02:58:32:  Custome Msg Submited.
+28-09-2020 02:58:36: Could not find element by: By.XPath: (//mat-card[@class='m-3 mat-card'])[4]//following-sibling::mat-grid-tile//div[@class='d-flex w-100 align-content-start content-text-tile' and contains(text(), 'Liberty')]
+28-09-2020 02:58:46:  Custome Msg Entered.
+28-09-2020 02:58:46: Custome Message Length 45
+28-09-2020 02:58:46:  Custome Msg Length Validated.
+28-09-2020 02:58:50:  Click No URL Radio Button.
+28-09-2020 02:59:00: Timed out after 10 seconds
+28-09-2020 02:59:00: 
+28-09-2020 02:59:05:  No URL Custome Msg Added in Dashboard.
+28-09-2020 03:03:34: Browser has been initialized
+28-09-2020 03:03:35:  Setup has been done successfully.
+28-09-2020 03:03:43: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 03:03:50: User Password  from ExcelLOGU@#$123
+28-09-2020 03:05:17: Timed out after 50 seconds
+28-09-2020 03:05:19: The SearchContext of the locator object cannot be null
+Parameter name: locator
+28-09-2020 03:06:31: Browser has been initialized
+28-09-2020 03:06:31:  Setup has been done successfully.
+28-09-2020 03:06:38: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 03:06:42: User Password  from ExcelLOGU@#$123
+28-09-2020 03:07:43: Exception has been thrown by the target of an invocation.
+28-09-2020 03:08:21: The SearchContext of the locator object cannot be null
+Parameter name: locator
+28-09-2020 03:09:58: Browser has been initialized
+28-09-2020 03:09:59:  Setup has been done successfully.
+28-09-2020 03:10:07: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 03:10:12: User Password  from ExcelLOGU@#$123
+28-09-2020 03:10:56: Login has been done successfully.
+28-09-2020 03:10:56:  Dashboard has been redirected successfully
+28-09-2020 03:11:06:  Custome Msg Entered.
+28-09-2020 03:11:06: Custome Message Length 45
+28-09-2020 03:11:07:  Custome Msg Length Validated.
+28-09-2020 03:11:13:  Custome Msg Submited.
+28-09-2020 03:11:17:  Office URL Custome Msg Added in Dashboard.
+28-09-2020 03:11:26:  Custome Msg Entered.
+28-09-2020 03:11:26: Custome Message Length 45
+28-09-2020 03:11:26:  Custome Msg Length Validated.
+28-09-2020 03:11:32:  Click Appointment URL Radio Button.
+28-09-2020 03:11:39:  Custome Msg Submited.
+28-09-2020 03:11:39:  Custome Msg Submited.
+28-09-2020 03:11:42:  Appointment URL Custome Msg Added in Dashboard.
+28-09-2020 03:11:50:  Custome Msg Entered.
+28-09-2020 03:11:50: Custome Message Length 45
+28-09-2020 03:11:50:  Custome Msg Length Validated.
+28-09-2020 03:11:55:  Click No URL Radio Button.
+28-09-2020 03:11:59:  Custome Msg Submited.
+28-09-2020 03:11:59:  Custome Msg Submited.
+28-09-2020 03:12:03:  No URL Custome Msg Added in Dashboard.
+28-09-2020 17:19:41: Browser has been initialized
+28-09-2020 17:19:42:  Setup has been done successfully.
+28-09-2020 17:19:51: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 17:19:59: User Password  from ExcelLOGU@#$123
+28-09-2020 17:20:47: Login has been done successfully.
+28-09-2020 17:20:47:  Dashboard has been redirected successfully
+28-09-2020 17:20:58:  Custome Msg Entered.
+28-09-2020 17:20:58: Custome Message Length 45
+28-09-2020 17:21:08: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54790
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+28-09-2020 17:21:12: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:54790/session//screenshot. The status of the exception was ConnectFailure, and the message was: Unable to connect to the remote server
+28-09-2020 17:21:20: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54790
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+28-09-2020 17:21:24: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:54790/session//screenshot. The status of the exception was ConnectFailure, and the message was: Unable to connect to the remote server
+28-09-2020 17:21:35: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54790
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+28-09-2020 17:21:39: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:54790/session//screenshot. The status of the exception was ConnectFailure, and the message was: Unable to connect to the remote server
+28-09-2020 17:21:54: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54790
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+28-09-2020 17:21:54: 
+28-09-2020 17:21:58: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:54790/session//screenshot. The status of the exception was ConnectFailure, and the message was: Unable to connect to the remote server
+28-09-2020 17:22:09: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54790
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+28-09-2020 17:22:49: Browser has been initialized
+28-09-2020 17:22:49:  Setup has been done successfully.
+28-09-2020 17:22:57: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 17:23:02: User Password  from ExcelLOGU@#$123
+28-09-2020 17:23:29: Login has been done successfully.
+28-09-2020 17:23:29:  Dashboard has been redirected successfully
+28-09-2020 17:23:39:  Custome Msg Entered.
+28-09-2020 17:23:39: Custome Message Length 45
+28-09-2020 17:23:41:  Custome Msg Length Validated.
+28-09-2020 17:23:48:  Custome Msg Submited.
+28-09-2020 17:23:51:  Office URL Custome Msg Added in Dashboard.
+28-09-2020 17:24:01:  Custome Msg Entered.
+28-09-2020 17:24:01: Custome Message Length 45
+28-09-2020 17:24:01:  Custome Msg Length Validated.
+28-09-2020 17:24:07:  Click Appointment URL Radio Button.
+28-09-2020 17:24:13:  Custome Msg Submited.
+28-09-2020 17:24:13:  Custome Msg Submited.
+28-09-2020 17:24:16:  Appointment URL Custome Msg Added in Dashboard.
+28-09-2020 17:24:26:  Custome Msg Entered.
+28-09-2020 17:24:26: Custome Message Length 45
+28-09-2020 17:24:26:  Custome Msg Length Validated.
+28-09-2020 17:24:30:  Click No URL Radio Button.
+28-09-2020 17:24:34:  Custome Msg Submited.
+28-09-2020 17:24:34:  Custome Msg Submited.
+28-09-2020 17:24:38:  No URL Custome Msg Added in Dashboard.
+28-09-2020 06:36:30 PM: Browser has been initialized
+28-09-2020 06:36:31 PM:  Setup has been done successfully.
+28-09-2020 06:36:31 PM: MethodName is not recognized
+28-09-2020 06:36:31 PM: Index was outside the bounds of the array.
+28-09-2020 06:37:09 PM: Browser has been initialized
+28-09-2020 06:37:09 PM:  Setup has been done successfully.
+28-09-2020 06:37:18 PM: MethodName is not recognized
+28-09-2020 06:41:33 PM: Browser has been initialized
+28-09-2020 06:41:33 PM:  Setup has been done successfully.
+28-09-2020 06:41:39 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 06:41:40 PM: User Password  from ExcelLOGU@#$123
+28-09-2020 06:41:54 PM: Login has been done successfully.
+28-09-2020 06:41:54 PM:  Dashboard has been redirected successfully
+28-09-2020 06:42:07 PM:  Custome Msg Entered.
+28-09-2020 06:42:07 PM: Custome Message Length 47
+28-09-2020 06:42:07 PM:  Custome Msg Length Validated.
+28-09-2020 06:42:10 PM:  Custome Msg Submited.
+28-09-2020 06:42:13 PM:  Office URL Custome Msg Added in Dashboard.
+28-09-2020 06:42:17 PM:  Custome Msg Entered.
+28-09-2020 06:42:17 PM: Custome Message Length 47
+28-09-2020 06:42:17 PM:  Custome Msg Length Validated.
+28-09-2020 06:42:23 PM:  Click Appointment URL Radio Button.
+28-09-2020 06:42:26 PM:  Custome Msg Submited.
+28-09-2020 06:42:26 PM:  Custome Msg Submited.
+28-09-2020 06:42:29 PM:   Expected: True
+  But was:  False
+
+28-09-2020 06:43:11 PM: Browser has been initialized
+28-09-2020 06:43:11 PM:  Setup has been done successfully.
+28-09-2020 06:43:12 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 06:43:13 PM: User Password  from ExcelLOGU@#$123
+28-09-2020 06:43:23 PM: Login has been done successfully.
+28-09-2020 06:43:23 PM:  Dashboard has been redirected successfully
+28-09-2020 06:43:37 PM:  Custome Msg Entered.
+28-09-2020 06:43:37 PM: Custome Message Length 47
+28-09-2020 06:43:38 PM:  Custome Msg Length Validated.
+28-09-2020 06:43:42 PM:  Custome Msg Submited.
+28-09-2020 06:43:45 PM:   Expected: True
+  But was:  False
+
+28-09-2020 06:44:22 PM: Browser has been initialized
+28-09-2020 06:44:22 PM:  Setup has been done successfully.
+28-09-2020 06:44:24 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 06:44:25 PM: User Password  from ExcelLOGU@#$123
+28-09-2020 06:44:33 PM: Login has been done successfully.
+28-09-2020 06:44:33 PM:  Dashboard has been redirected successfully
+28-09-2020 06:44:38 PM:  Custome Msg Entered.
+28-09-2020 06:44:38 PM: Custome Message Length 47
+28-09-2020 06:44:38 PM:  Custome Msg Length Validated.
+28-09-2020 06:44:39 PM:   Expected: True
+  But was:  False
+
+28-09-2020 06:45:25 PM: Browser has been initialized
+28-09-2020 06:45:25 PM:  Setup has been done successfully.
+28-09-2020 06:45:27 PM: User Name from Excel qa.loganat.murugesan@libertytax.net
+28-09-2020 06:45:28 PM: User Password  from ExcelLOGU@#$123
+28-09-2020 06:45:37 PM: Login has been done successfully.
+28-09-2020 06:45:37 PM:  Dashboard has been redirected successfully
+28-09-2020 06:45:40 PM:  Custome Msg Entered.
+28-09-2020 06:45:40 PM: Custome Message Length 47
+28-09-2020 06:45:47 PM:  Custome Msg Length Validated.
+28-09-2020 06:45:58 PM:  Custome Msg Submited.
+28-09-2020 06:46:10 PM:  Office URL Custome Msg Added in Dashboard.

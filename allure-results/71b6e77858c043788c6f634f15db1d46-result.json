@@ -1,0 +1,77 @@
+{
+  "uuid": "4ffcc69b-38db-4f2e-8390-e934da36ec09-tr-0-1010",
+  "historyId": "UnitTestProject1.TestClasses.LoginClass.fnLoginIntoApplication",
+  "fullName": "UnitTestProject1.TestClasses.LoginClass.fnLoginIntoApplication",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "16"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestProject1.TestClasses.LoginClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnLoginIntoApplication"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestProject1.TestClasses.LoginClass"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Login & Setup Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnLoginIntoApplication",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether user able to login into the application\n",
+  "steps": [
+    {
+      "name": "fnLoginIntoApplication",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "20200928_184537.png",
+          "source": "fe56da71a4d549b49c589e914f77a5ca-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "b7d752a38a66434a8f255e4492578799-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601298925771,
+      "stop": 1601298937483
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601298925769,
+  "stop": 1601298937489
+}

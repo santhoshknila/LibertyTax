@@ -1,0 +1,77 @@
+{
+  "uuid": "e60eb3ba-95d5-4573-a5bc-7afe5fe30421-tr-0-1003",
+  "historyId": "UnitTestProject1.TestClasses.CustomMessage.fnAddCutomMessage",
+  "fullName": "UnitTestProject1.TestClasses.CustomMessage.fnAddCutomMessage",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "16"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnAddCutomMessage"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestProject1.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnAddCutomMessage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether user able to save the custom message with Include Office URL option\n",
+  "steps": [
+    {
+      "name": "fnAddCutomMessage",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "20200928_184601.png",
+          "source": "0ebb1a18edf94caaaef91be5072cf783-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "847e49979f0a41a3b3d0e3224808e85b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601298952173,
+      "stop": 1601298962565
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601298952173,
+  "stop": 1601298962566
+}
